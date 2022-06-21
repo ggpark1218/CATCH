@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/catch6.iml" filepath="$PROJECT_DIR$/.idea/catch6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/catch6_android.iml" filepath="$PROJECT_DIR$/android/catch6_android.iml" />
     </modules>
   </component>
 </project>
