@@ -1,4 +1,4 @@
-# [Advanced Flutter 캠프 1주차 - tflite custom model 만들기]
+### [Advanced Flutter 캠프 1주차 - tflite custom model 만들기]
 
 custom model을 만들기 위해서는 csv 파일이 필요하다. 이 csv 파일에는 각 사진의 좌표 정보가 저장되어있다. 저번 방학 때랑 학기 중 모두 구글 클라우드 플랫폼으로 시도를 해보았지만 csv파일에 정보가 모델 메이커와 연동이 되지 않았다. 그래서 새로운 방법을 시도해보았지만 여전히 어려웠다. 플러터로 모델 메이커로 만든 모델을 적용하는게 튜토리얼이 없다… 그래도 해보자!
 
